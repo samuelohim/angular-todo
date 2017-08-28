@@ -16,22 +16,16 @@ Reinstall latest version:
  npm install @angular/cli
 ```
 
-Install locally
+Install project module dependencies
+```
  npm install
+```
 
 Compile
+```
  npm serve
+```
 
-Install Angular CLI globally
-
-```
-npm install -g angular-cli
-```
-Install project module dependencies
-
-```
-npm install
-```
 ## Frameworks
 
 As the main framework is used [Angular](https://angular.io/docs) powered by [Angular CLI](https://cli.angular.io/).
