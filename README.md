@@ -2,6 +2,22 @@
 A todo app built with Angular and Bootstrap
 
 ## Installation
+
+
+Uninstall old version:
+``` npm uninstall --save-dev angular-cli
+
+Reinstall latest version:
+``` npm install --save-dev @angular/cli@latest
+``` npm install @angular/cli
+
+
+Install locally
+``` npm install
+
+Compile
+``` npm serve
+
 Install Angular CLI globally
 
 ```
@@ -37,3 +53,5 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 Before running the tests make sure you are serving the app via `ng serve`.
+
+Reference: https://www.youtube.com/watch?v=QMQbAoTLJX8
