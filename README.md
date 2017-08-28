@@ -4,18 +4,23 @@ A todo app built with Angular and Bootstrap
 ## Installation
 
 
-Uninstall deprecated version: ``` npm uninstall --save-dev angular-cli
+Uninstall deprecated version:
+```
+npm uninstall --save-dev angular-cli
+```
 
 Reinstall latest version:
-``` npm install --save-dev @angular/cli@latest
-``` npm install @angular/cli
+```
 
+ npm install --save-dev @angular/cli@latest
+ npm install @angular/cli
+```
 
 Install locally
-``` npm install
+ npm install
 
 Compile
-``` npm serve
+ npm serve
 
 Install Angular CLI globally
 
